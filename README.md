@@ -5,3 +5,5 @@
 * Change 3 - 2nd pull request
 * Change 4 - From Galewatch
 * Change 5 - From Galewatch
+* Change 6 - From HarishN
+* Change 7 - From dgaleally
